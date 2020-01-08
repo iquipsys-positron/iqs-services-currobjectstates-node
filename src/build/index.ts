@@ -1,0 +1,1 @@
+export { CurrentObjectStatesServiceFactory } from './CurrentObjectStatesServiceFactory';
